@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Bambang Andrie Gunawan (Andrie)
 
-<!--
-**andriest/andriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate **front-end developer** and **Linux enthusiast** with experience in building scalable applications and fostering clean, maintainable code practices. My work spans multiple domains, including social media platforms and marketplace applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, Rust, Scala, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Django, Django Rest Framework, ReactJS, NuxtJS, Flutter (BLoC/GetX), Poetry, Linux, Git
+- **Backend Development:** API design, database management, real-time data handling
+- **Software Principles:** DRY, Clean Code, Code Refactoring
+- **Team Management:** Leading development teams and overseeing project lifecycles
+
+## 🌟 Highlights
+
+- Developed a social media platform using **Scala**, emphasizing real-time user interactions and system scalability.
+- Managed and led a team to deliver a **marketplace application**, ensuring quality, timely delivery, and smooth collaboration.
+- Advocate for clean, readable code with a focus on best practices in software development.
+
+## 🛠️ My Interests
+
+- Open-source contributions
+- Functional programming and system architecture
+- Mentoring junior developers and knowledge sharing
+- Exploring new technologies like AI and blockchain
+
+## 📫 Contact Me
+
+- **Email:** andriebamz@gmail.com
+- **LinkedIn:** [linkedin.com/in/andriebamz](#)
+
+Feel free to explore my repositories and connect with me!
