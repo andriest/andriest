@@ -1,6 +1,6 @@
 # 👨‍💻 Bambang Andrie Gunawan (Andrie)
 
-Welcome to my GitHub profile! I am a passionate **front-end developer** and **Linux enthusiast** with experience in building scalable applications and fostering clean, maintainable code practices. My work spans multiple domains, including social media platforms and marketplace applications.
+Welcome to my GitHub profile! I am a passionate **Back-end & Front-end developer** and **Linux enthusiast** with experience in building scalable applications and fostering clean, maintainable code practices. My work spans multiple domains, including social media platforms and marketplace applications.
 
 ## 🚀 Skills & Expertise
 
@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I am a passionate **front-end developer** and **Li
 ## 📫 Contact Me
 
 - **Email:** andriebamz@gmail.com
-- **LinkedIn:** [linkedin.com/in/andriebamz](#)
+- **LinkedIn:** [linkedin.com/in/andriebamz](https://linkedin.com/in/andriebamz)
 
 Feel free to explore my repositories and connect with me!
